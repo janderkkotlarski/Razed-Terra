@@ -4,8 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    game.cpp
+    game.cpp \
+    terra.cpp
 
 HEADERS += \
-    game.h
+    game.h \
+    terra.h
 
