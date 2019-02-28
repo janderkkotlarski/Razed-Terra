@@ -5,9 +5,11 @@ CONFIG -= qt
 
 SOURCES += main.cpp \
     game.cpp \
-    terra.cpp
+    terra.cpp \
+    player.cpp
 
 HEADERS += \
     game.h \
-    terra.h
+    terra.h \
+    player.h
 
